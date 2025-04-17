@@ -9,3 +9,10 @@ Welcome to my GitHub repo where I document everything I learn as I break into cy
 - 🛠️ Beginner scripts and security automation
 - 🔐 TryHackMe room summaries
 - 💻 How I built my home lab
+
+## Explore
+
+- 📘 [Notes](notes/)
+- 💻 [Scripts](scripts/)
+- 🔐 [TryHackMe](tryhackme/)
+- 🧪 [Labs](labs/)

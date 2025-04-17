@@ -4,7 +4,7 @@
 - [ ] Cyber Security 101
 - [ ] SOC Level 1
 
-#Practice
+# Practice
 - [ ] Investigating with Splunk
 - [ ] Bening
 - [ ] Secret Recipe

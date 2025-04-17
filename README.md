@@ -1,6 +1,6 @@
 # My Cybersecurity Journey 🚀
 
-Welcome to my GitHub repo where I document everything I learn as I break into cybersecurity. I'm currently focused on networking, ethical hacking, and Linux basics. This is where I’ll share my notes, scripts, TryHackMe progress, and home lab setup. Feedback is always welcome!
+Welcome to my GitHub repo where I document everything I learn as I break into cybersecurity. I'm currently focused on networking, ethical hacking, and Linux basics. This is where I’ll share my notes, scripts, TryHackMe progress, and home lab setup. I am also pursuing a Bachelors degree in Cybersecurity. Feedback is always welcome!
 
 
 ## What's in this repo?
